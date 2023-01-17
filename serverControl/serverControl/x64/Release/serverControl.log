@@ -1,0 +1,11 @@
+﻿  mainWindow.cpp
+C:\Users\lance\source\repos\serverControl\serverControl\mainWindow.h(343,37): warning C4101: 'e': unreferenced local variable
+C:\Users\lance\source\repos\serverControl\serverControl\mainWindow.h(365,1): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\lance\source\repos\serverControl\serverControl\mainWindow.h(372,37): warning C4101: 'e': unreferenced local variable
+C:\Users\lance\source\repos\serverControl\serverControl\mainWindow.h(462,1): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\lance\source\repos\serverControl\serverControl\mainWindow.h(615,36): warning C4101: 'e': unreferenced local variable
+C:\Users\lance\source\repos\serverControl\serverControl\mainWindow.h(762,1): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\lance\source\repos\serverControl\serverControl\mainWindow.h(787,1): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\lance\source\repos\serverControl\serverControl\mainWindow.h(972,1): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+  mainWindow.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  serverControl.vcxproj -> C:\Users\lance\source\repos\serverControl\x64\Release\serverControl.exe

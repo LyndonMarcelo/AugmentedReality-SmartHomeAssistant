@@ -1,0 +1,4 @@
+C:\Users\lance\source\repos\serverControl\serverControl\x64\Debug\serverControl.vcxproj.AssemblyReference.cache
+C:\Users\lance\source\repos\serverControl\serverControl\x64\Debug\serverControl.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\lance\source\repos\serverControl\serverControl\x64\Debug\serverControl.mainWindow.resources
+C:\Users\lance\source\repos\serverControl\serverControl\x64\Debug\serverControl.vcxproj.GenerateResource.cache
